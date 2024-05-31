@@ -4,6 +4,8 @@ The following repo contains the lab work for the course "Advanced Data Mining" (
 
 The following data mining tasks were done using the **Weka** software. 
 
+Lab questions can be found here: https://www.ida.liu.se/~732A75/lab/index.en.shtml
+
 - Lab 1: Clustering Analysis 
 
 - Lab 2: Association Analysis
@@ -11,5 +13,5 @@ The following data mining tasks were done using the **Weka** software.
 - Lab 3: Association Analysis
 
 
-For more information on the course subject: https://www.ida.liu.se/~732A75/lab/index.en.shtml
+For more information on the course subject: [https://www.ida.liu.se/~732A75/lab/index.en.shtml](https://www.ida.liu.se/~732A75/info/courseinfo.en.shtml)
 
