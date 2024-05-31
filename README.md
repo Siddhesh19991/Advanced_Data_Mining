@@ -2,7 +2,7 @@
 
 The following repo contains the lab work for the course "Advanced Data Mining" (732A75) in the Statistics and Machine Learning division at Linköping University.
 
-The following data mining tasks were doing using the Weka software. 
+The following data mining tasks were done using the **Weka** software. 
 
 - Lab 1: Clustering Analysis 
 
